@@ -1,0 +1,2 @@
+#!/bin/bash
+mdkdir /tmp/my_first_directory
